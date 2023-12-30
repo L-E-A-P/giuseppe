@@ -24,23 +24,11 @@ compreso una verità del mio tempo contemporaneo, delle istituzioni e del
 mondo accademico-scientifico, sulla quale proverò a scrivere più accuratamente
 altrove.
 
-[^1]: _IRCAM_, 2018. Con l'aiuto e la presenza fondamentale di Marco Matteo
-Markidis, amico, compositore, ricercatore indipendente, ho passato una
-settimana nel centro parigino occupando la sala anecoica, ospite di Josè
-Fernandez Rodriguez, allora ricercatore _IRCAM_. Il viaggio e l'alloggio
-furono auto-sostenuti, auto-prodotti, allo scopo di testare e rilevare dati
-sugli altoparlanti _S.T.ONE_ e il neonato _S.T.ON3L_ (nato la notte prima di
-partire, dopo una lunga gestazione).
+[^1]: _IRCAM_, 2018. Con l'aiuto e la presenza fondamentale di Marco Matteo Markidis, amico, compositore, ricercatore indipendente, ho passato una settimana nel centro parigino occupando la sala anecoica, ospite di Josè Fernandez Rodriguez, allora ricercatore _IRCAM_. Il viaggio e l'alloggio furono auto-sostenuti, auto-prodotti, allo scopo di testare e rilevare dati sugli altoparlanti _S.T.ONE_ e il neonato _S.T.ON3L_ (nato la notte prima di partire, dopo una lunga gestazione).
 
 [^2]: Dottorati e residenze, una decina tra il 2016 e il 2019.
 
-[^3]: Nel 2018 attraverso un bando di _LazioInnova_ è nata
-_Spherical Technologies SRLS_, con lo scopo di produrre commercialmente le
-ricerche sui dispositivi sferici di ripresa e diffusione fino ad allora
-sviluppati. Ma l'imprenditore che è in me è un incapace totale ed il progetto
-non ha portato altro che spese aggiuntive sotto il capitolo
-_costi di istituzionalizzazione_, perdendo quindi l'accesso ai fondi per lo
-sviluppo.
+[^3]: Nel 2018 attraverso un bando di _LazioInnova_ è nata _Spherical Technologies SRLS_, con lo scopo di produrre commercialmente le ricerche sui dispositivi sferici di ripresa e diffusione fino ad allora sviluppati. Ma l'imprenditore che è in me è un incapace totale ed il progetto non ha portato altro che spese aggiuntive sotto il capitolo _costi di istituzionalizzazione_, perdendo quindi l'accesso ai fondi per lo sviluppo.
 
 ![grafico-relazioni](images/pto/grafico-relazioni.jpg)
 
