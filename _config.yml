@@ -16,7 +16,7 @@
 # theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
-skin: "/assets/css/skins/dark.css"
+skin: "https://L-E-A-P.github.io/assets/css/skins/dark.css"
 locale: it-IT
 title: "Giuseppe"
 description: "ElettroAcustico Permanente"
