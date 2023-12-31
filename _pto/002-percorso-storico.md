@@ -3,9 +3,6 @@ image:
 title: "percorso storico"
 author: Giuseppe
 layout: post
-excerpt_separator: "<!--more-->"
-categories:
-  - pto
 ---
 
 L'uomo che più di tutti avrebbe sorriso alle evoluzioni delle mie stravaganti
@@ -61,4 +58,4 @@ mente e le braccia lavorano rigorosamente al servizio della musica. Da qui viene
 il mio pensiero ed il mio modo di fare. Da qui posso partire con serenità e
 spiegare la mia attuale visione della musica.
 
-![Piero Schiavoni](images/pto/ps.jpg)
+![Piero Schiavoni](https://raw.githubusercontent.com/L-E-A-P/giuseppe/main/images/pto/ps.jpg)

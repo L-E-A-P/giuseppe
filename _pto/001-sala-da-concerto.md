@@ -3,9 +3,6 @@ image:
 title: "sala da concerto"
 author: Giuseppe
 layout: post
-excerpt_separator: "<!--more-->"
-categories:
-  - pto
 ---
 
 Ad un certo punto ho iniziato ad osservare quello che avevo fatto nel contesto
@@ -62,4 +59,4 @@ _che non dà luogo a fenomeni di eco_, ma la realtà acustica del vivo musicale 
 stato il banco di prova e l'ambiente di ricerca del mio pensiero e su questa
 mi auguro di avere confronto.
 
-![grafico-relazioni](images/pto/grafico-relazioni.jpg)
+![grafico-relazioni](https://raw.githubusercontent.com/L-E-A-P/giuseppe/main/images/pto/grafico-relazioni.jpg)
