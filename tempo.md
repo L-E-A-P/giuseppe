@@ -4,7 +4,7 @@ image: /images/tempo/IMG_0372.jpeg
 layout: page
 ---
 
-## Timpani Electro Magnetic Pulse Oscillating
+## Timpani Electro Magnetic Pulse Oscillation
 
 La musica è uno strumento di pensiero. Gli strumenti musicali che scegliamo,
 inventiamo, con cui attiviamo esperienze sonore e articoliamo musica, sono a
