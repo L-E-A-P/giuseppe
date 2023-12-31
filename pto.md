@@ -1,6 +1,6 @@
 ---
 title: Pensare Tetraedrico Oggi
-image:
+image: images/pto/2016-10-05-_DSC5399-hero.jpg
 layout: page-chapters
 entries_layout: list
 collection: pto

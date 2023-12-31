@@ -1,6 +1,6 @@
 ---
-image:
 title: "percorso storico"
+image: images/pto/193879_1947881938691_3859395_o-hero.jpg
 author: Giuseppe
 layout: post
 ---

@@ -1,6 +1,6 @@
 ---
-image:
 title: "sala da concerto"
+image: images/pto/IMG_3557-hero.jpg
 author: Giuseppe
 layout: post
 ---
