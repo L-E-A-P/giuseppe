@@ -15,10 +15,12 @@ Ho desiderato, e a lungo provato, di trovarmi nella circostanza di una ricerca
 scientifica, istituzionalizzata. Mi sono portato in sala anecoica[^1].
 Ho ripetutamente ed inutilmente cercato il supporto di un'istituzione[^2].
 Ho fallito l'approccio ad un finanziamento europeo[^3]. Ho cercato continuamente
-_qualcosa_ che potesse sollevare lo stato dell'arte della ricerca dal livello domestico in cui è nata ad un livello scientifico, istituzionalizzato. Ero
+_qualcosa_ che potesse sollevare lo stato dell'arte della ricerca dal livello
+domestico in cui è nata ad un livello scientifico, istituzionalizzato. Ero
 convinto che per parlare di temi come lo spazio sonoro, l'ascolto e la
 produzione di strumenti in grado di manipolarli, si dovesse necessariamente
-passare per un percorso di divulgazione scientifica riconosciuta. In quel modo, certificandomi, mi sarei sentito parte di una comunità. Ho osservato i miei
+passare per un percorso di divulgazione scientifica riconosciuta. In quel modo,
+certificandomi, mi sarei sentito parte di una comunità. Ho osservato i miei
 continui fallimenti, motivandoli, laddove mi è stato possibile capire. Ho
 compreso una verità del mio tempo contemporaneo, delle istituzioni e del
 mondo accademico-scientifico, sulla quale proverò a scrivere più accuratamente
@@ -81,7 +83,8 @@ Non scoraggiarsi davanti all'abuso di superficialità a cui sono sottoposte
 parole come ascolto, suono, stereofonia. Non limitarsi al collegamento
 Gerzon-Ambisonic, o agli epiloghi solipsistici proposti nelle realtà virtuali,
 che non rivendicano senso di appartenenza a quell'elegante modo di descrivere
-gli spazi sonori delle infinite realtà acustiche attraverso il concetto delle armoniche sferiche. Non limitarsi all'idea di una tecnologia che si pone solo
+gli spazi sonori delle infinite realtà acustiche attraverso il concetto delle
+armoniche sferiche. Non limitarsi all'idea di una tecnologia che si pone solo
 al servizio di un fine, ormai esclusivamente ludico e di intrattenimento, ma
 che possa essere il mezzo stesso di speculazione sulle potenzialità tecniche
 reali del produrre e riprodurre suoni. Si tratta, in fondo, e fin dal principio,
@@ -112,7 +115,8 @@ prima ancora di iniziare i suoi corsi. Gli altri studenti ne parlavano come di
 un personaggio mitologico, dalla sapienza teorica seconda solo all'appassionata
 pratica tecnica. Si creò tra noi, in un tempo piccolo, un rapporto speciale.
 Il nostro grado comune era l'_Ambisonics_, anello che lui stesso aveva forgiato.
-Quando Piero iniziò a parlarci di _Ambisonics_ fu per noi un momento di alta formazione perché di fatto partecipavamo, nell'unica realtà del presente, alle
+Quando Piero iniziò a parlarci di _Ambisonics_ fu per noi un momento di alta
+formazione perché di fatto partecipavamo, nell'unica realtà del presente, alle
 sue ricerche. La materia di cui lui ci narrava le gesta era argilla fresca tra
 le sue mani. Iniziammo a lavorare attivamente alle teorie di Michael Gerzon nel
 2008, mettendo in pratica e simulando molti dei test di ascolto che egli
@@ -122,7 +126,10 @@ registrazione comparata tra configurazioni microfoniche _stereo_ o _surround_.
 
 Nel 2008 nacque _EMUFest_ (_Festival Internazionale di Musica Elettronica_ di
 Roma). Nato all'interno del _Conservatorio S. Cecilia_ dal lavoro concertato
-dell'allora direttore Edda Silvestri, Giorgio Nottoli e Piero Schiavoni, con il supporto di molti docenti del conservatorio stesso, _EMUFest_ è stato uno dei festival di riferimento mondiale tra il 2008 e il 2017 quando, celebrandone la decima edizione, ne è stata dichiarata anche la fine politica, non musicale.
+dell'allora direttore Edda Silvestri, Giorgio Nottoli e Piero Schiavoni, con il
+supporto di molti docenti del conservatorio stesso, _EMUFest_ è stato uno dei
+festival di riferimento mondiale tra il 2008 e il 2017 quando, celebrandone la
+decima edizione, ne è stata dichiarata anche la fine politica, non musicale.
 
 _EMUFest_ fu il prototipo di didattica aumentata, il _fare_ della scuola
 romana portato oltre ogni aspettativa, che trascinò noi, gli studenti, dentro
@@ -147,5 +154,3 @@ Non un ambiente istituzionale dal rigore scientifico, ma un laboratorio dove la
 mente e le braccia lavorano rigorosamente al servizio della musica. Da qui viene
 il mio pensiero ed il mio modo di fare. Da qui posso partire con serenità e
 spiegare la mia attuale visione della musica.
-
-## rapporto di ricerca

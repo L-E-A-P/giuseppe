@@ -16,7 +16,7 @@
 # theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
-skin: "https://L-E-A-P.github.io/assets/css/skins/dark.css"
+skin: "/assets/css/skins/dark.css"
 locale: it-IT
 title: "Giuseppe"
 description: "ElettroAcustico Permanente"
@@ -35,7 +35,7 @@ mathjax:
 #     weights: "400,400i,700,700i"
 #   - name: "Lora"
 #     weights: "400,400i,700,700i"
-google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+google_analytics: G-QZM89XVDCT # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: leap-2 # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
@@ -80,6 +80,10 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+collections:
+    pto:
+    output: true
+
 # Front Matter Defaults
 defaults:
   # Posts defaults
@@ -88,6 +92,14 @@ defaults:
       type: posts
     values:
       layout: post
+      share: true
+# pto
+  - scope:
+      path: "_pto"
+      type: pto
+    values:
+      layout: page
+      comments: true
       share: true
 
 # Site Author

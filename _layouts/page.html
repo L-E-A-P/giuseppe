@@ -19,7 +19,10 @@ layout: default
         {% endif %}
       </header>
       <div class="page-content">
+
         {{ content }}
+
+        {% include page-chapters.html %}
 
         {% if page.share %}
           {% include social-share.html %}
