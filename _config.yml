@@ -81,7 +81,7 @@ plugins:
   - jekyll-paginate
 
 collections:
-    pto:
+  pto:
     output: true
 
 # Front Matter Defaults
