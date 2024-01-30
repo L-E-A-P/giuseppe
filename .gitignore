@@ -1,4 +1,6 @@
-_000no/
+_pto/_no
+_posts/_no
+Gemfile.lock
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,linux,jekyll
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,linux,jekyll
