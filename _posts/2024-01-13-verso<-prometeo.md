@@ -1,5 +1,5 @@
 ---
-title: "Verso <- Prometeo"
+title: "VERSO ← PROMETEO"
 excerpt_separator: "<!--more-->"
 categories:
   - Scritti
