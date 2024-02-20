@@ -8,24 +8,90 @@ tags:
   - Prometeo
 ---
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
-
-Mrs. Darling first heard of Peter when she was tidying up her children's minds. It is the nightly custom of every good mother after her children are asleep to rummage in their minds and put things straight for next morning, repacking into their proper places the many articles that have wandered during the day.
+_Perché sono qui?_    
+Prima di procedere alla stesura degli appunti ho urgenza di rispondere a questo
+_perché_.    
+Gli appunti che seguono sono una trascrizione estesa e articolata degli appunti
+cartacei presi con penna stilografica usa e getta _Pilot_ su quaderno a righe
+_Clairefontaine_. La carta millimetrata è _Fabriano_.
 
 <!--more-->
 
-This post has a manual excerpt `<!--more-->` set after the second paragraph. The following YAML Front Matter has also be applied:
+Quando [Davide Tedesco](https://www.davidetedesco.it) mi ha chiesto cosa ne
+pensassi di organizzare al _LEAP_ un incontro guida all'ascolto sul _Prometeo_
+di Nono mi sono chiesto, e gli ho chiesto, chi potesse guidare un incontro
+simile. Non si trattava di fare un'analisi dell'opera. Né di mettere in piedi un
+apparato musicologico, inevitabilmente inesistente, per l'occasione.    
 
-```yaml
-excerpt_separator: "<!--more-->"
-```
+*Potresti farlo tu!*    
 
-If you could keep awake (but of course you can't) you would see your own mother doing this, and you would find it very interesting to watch her. It is quite like tidying up drawers. You would see her on her knees, I expect, lingering humorously over some of your contents, wondering where on earth you had picked this thing up, making discoveries sweet and not so sweet, pressing this to her cheek as if it were as nice as a kitten, and hurriedly stowing that out of sight. When you wake in the morning, the naughtiness and evil passions with which you went to bed have been folded up small and placed at the bottom of your mind and on the top, beautifully aired, are spread out your prettier thoughts, ready for you to put on.
+Si. Probabilmente è nella mia struttura mentale quello di accogliere una sfida
+come questa. Probabilmente perché, da Nono, non ho timore di _errare_, lo
+ritengo necessario.
 
-I don't know whether you have ever seen a map of a person's mind. Doctors sometimes draw maps of other parts of you, and your own map can become intensely interesting, but catch them trying to draw a map of a child's mind, which is not only confused, but keeps going round all the time. There are zigzag lines on it, just like your temperature on a card, and these are probably roads in the island, for the Neverland is always more or less an island, with astonishing splashes of colour here and there, and coral reefs and rakish-looking craft in the offing, and savages and lonely lairs, and gnomes who are mostly tailors, and caves through which a river runs, and princes with six elder brothers, and a hut fast going to decay, and one very small old lady with a hooked nose. It would be an easy map if that were all, but there is also first day at school, religion, fathers, the round pond, needle-work, murders, hangings, verbs that take the dative, chocolate pudding day, getting into braces, say ninety-nine, three-pence for pulling out your tooth yourself, and so on, and either these are part of the island or they are another map showing through, and it is all rather confusing, especially as nothing will stand still.
+{% include toc %}
 
-Of course the Neverlands vary a good deal. John's, for instance, had a lagoon with flamingoes flying over it at which John was shooting, while Michael, who was very small, had a flamingo with lagoons flying over it. John lived in a boat turned upside down on the sands, Michael in a wigwam, Wendy in a house of leaves deftly sewn together. John had no friends, Michael had friends at night, Wendy had a pet wolf forsaken by its parents, but on the whole the Neverlands have a family resemblance, and if they stood still in a row you could say of them that they have each other's nose, and so forth. On these magic shores children at play are for ever beaching their coracles [simple boat]. We too have been there; we can still hear the sound of the surf, though we shall land no more.
+## Allucinante
 
-Of all delectable islands the Neverland is the snuggest and most compact, not large and sprawly, you know, with tedious distances between one adventure and another, but nicely crammed. When you play at it by day with the chairs and table-cloth, it is not in the least alarming, but in the two minutes before you go to sleep it becomes very real. That is why there are night-lights.
+Ho accettato da me stesso l'incarico vedendo una possibilità di studio (e di
+fallimento): *cosa farei, quale sarebbe il mio percorso di studio se fossi
+chiamato ad interpretare, da musicista il Prometeo di Nono?*
 
-Occasionally in her travels through her children's minds Mrs. Darling found things she could not understand, and of these quite the most perplexing was the word Peter. She knew of no Peter, and yet he was here and there in John and Michael's minds, while Wendy's began to be scrawled all over with him. The name stood out in bolder letters than any of the other words, and as Mrs. Darling gazed she felt that it had an oddly cocky appearance.
+Questa è la mia prima risposta a quel perché: <u> per condividere un processo di
+allucinazione </u>.
+
+**Allucinazione**: *fenomeno psichico, provocato da cause diverse, per cui un
+individuo percepisce come reale ciò che è solo immaginario.* [Io avrei usato
+_fantasioso_ in luogo di _immaginario_] *<u>TURBAMENTO MENTALE</u>.
+È la comparsa d'immagini sensoriali dotate di piena evidenza realistica, che
+vengono inquadrate nella realtà esterna, ma si fermano per un processo interno,
+senza che sia presente o esista l'oggetto o il fatto corrispondente.*
+
+Quindi, di fatto, voi siete la mia seduta psicoanalitica.
+
+## Prima Allucinazione
+
+Al primo stadio della mia allucinazione c'è stata questa visione.
+
+![GRAFICO CREAZIONE-PERCEZIONE]()
+
+È parte della spiegazione che Cobb condivide con Ariadne, del processo creativo
+e del potenziale mentale durante il sogno. È *INCEPTION*:
+
+Avevo già lavorato in passato allo studio di *INCEPTION*, alla sua struttura
+formale, durante la fase di indagine preliminare di un'idea che non ha mai visto
+la luce (_unisolo_). Avevo già avuto allucinazioni attorno a quel disegno. Mai
+come questa.
+
+> *preconizzava il verso, che impedisce agli spettatori di dimenticare
+  l'irrealtà, condizione dell'arte.*
+
+Ho visto nel disegno (o almeno nell'immagine residua nella mia mente) la
+descrizione del processo creativo: dal sogno alla musica. Ho riguardato quel
+momento del film con occhi nuovi, ho preso appunti:
+
+
+*<<Quando dormiamo la nostra mente è in grado di fare qualsiasi cosa.    
+Immagina di progettare un edificio, ne crei consapevolmente ogni aspetto.    
+Ma a volte è quasi come si sita creando da solo.>>*
+{: .text-left}
+
+*<<È pura immaginazione.>>*
+{: .text-right}
+
+*<<In un sogno la nostra mente lo fa di continuo, senza interruzione.    
+Noi creiamo e percepiamo il nostro mondo simultaneamente e la nostra mente lo fa
+così bene che neanche ce ne accorgiamo.    
+<ins>Questo</ins> ci consente di inserici nel mezzo del processo, assumendo la
+parte della creazione>>*
+{: .text-left}
+
+![GRAFICO CREAZIONE-PERCEZIONE]()
+
+*<<I sogni sembrano reali fino a che ci siamo dentro, non ti pare?    
+Tu non ricordi mai esattamente l'inizio di un sogno vero?    
+Ti ritrovi sempre in mezzo a quello che sta succedendo…    
+Allora come siamo arrivati qui?>>*
+{: .text-left}
+
+![verso prometeo time curve]({{ 'images/verso-prometeo/verso-prometeo-time-curve.png' | absolute_url }})
