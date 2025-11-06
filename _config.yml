@@ -15,8 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 # theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
-theme: "so-leap-theme"
+remote_theme: "L-E-A-P/so-leap-theme"
 skin: "/assets/css/skins/dark.css"
+
 locale: it-IT
 title: "Giuseppe"
 description: "ElettroAcustico Permanente"
