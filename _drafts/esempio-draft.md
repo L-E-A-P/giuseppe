@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Esempio di Draft"
 categories:
   - test
