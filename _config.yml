@@ -83,6 +83,9 @@ plugins:
   - jekyll-target-blank
 
 collections:
+  docs:
+    output: false
+    sort_by: date
   pto:
     output: true
 
