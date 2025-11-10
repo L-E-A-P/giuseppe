@@ -4,7 +4,9 @@
   url: https://L-E-A-P.github.io
 - title: Posts
   url: /posts/
-- title: Categories
+- title: Docs
+  url: /ricerca/
+- title: Cats
   url: /categories/
 - title: Tags
   url: /tags/

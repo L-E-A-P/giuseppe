@@ -1,4 +1,5 @@
 ---
+title: diario di ricerca
 layout: blog
 limit: 10
 show_excerpts: true
@@ -7,10 +8,13 @@ entries_layout: list
 
 È professore di Elettroacustica al Conservatorio _N. Piccinni_ di Bari. Si forma
 al Conservatorio _S. Cecilia_ di Roma dove studia Musica Elettronica con Giorgio
-Nottoli, Nicola Bernardini e Michelangelo Lupone. L’attività di ricerca musicale
+Nottoli, Nicola Bernardini e Michelangelo Lupone. È stato professore presso i
+Conservatori di Roma, Piacenza e Genova. È dottorando presso il Conservatorio
+_A. Casella_ di L'Aquila -- DREAM XLI ciclo a.a. 2025-2026.
+L’attività di ricerca musicale
 lo conduce allo sviluppo di sistemi elettroacustici di invenzione tra cui un
 sistema di ascolto omnidirezionale mediante diffusione tetraedrica denominato
 **S.T.ONE** e un timpano elettromagnetico denominato **TEMPO**. Fondatore dello
-spazio **LEAP** (_Laboratorio ElettroAcustico Permanente_, Roma) e del progetto
+movimento **LEAP** (_Laboratorio ElettroAcustico Permanente_, Roma) e del progetto
 **SEAM** (_Sustained ElectroAcoustic Music_) cura interpretazioni del repertorio
 elettroacustico con un’attenzione particolare alla scuola romana.
