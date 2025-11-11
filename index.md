@@ -1,5 +1,5 @@
 ---
-title: diario di ricerca
+title: soñando
 layout: blog
 limit: 10
 show_excerpts: true
