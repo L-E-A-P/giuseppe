@@ -2,8 +2,8 @@
 title: "“hay que caminar” soñando"
 categories:
   - diario
-tags:
   - dream
+tags:
   - cad
 share: false
 ---
