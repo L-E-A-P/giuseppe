@@ -1,5 +1,6 @@
 ---
-title: pratiche di accordatura del Tempo
+title: "pratiche di accordatura del Tempo"
+last_modified_at: 2026-01-14T08:38:48-01:00
 categories:
   - diario
   - dream
