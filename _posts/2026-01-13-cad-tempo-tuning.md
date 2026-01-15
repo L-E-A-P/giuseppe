@@ -46,7 +46,7 @@ Raggiunto il punto di tensione desiderato, faccio un ulteriore controllo sui
 singoli tiranti, contando (con l'ausilio di un piccolo giravite piatto) le spire 
 rimaste fuori per ogni bullone. Questo mi assicura una tensione omogenea lungo
 il cerchio della membrana. Ovviamente, nel caso in cui si intervenga a compensare 
-la la tensione per allineare il numero delle spire, poi si effettua un ulteriore
+la tensione per allineare il numero delle spire, poi si effettua un ulteriore
 controllo all'accordatore. 
 
 {% include responsive-embed url="https://www.youtube.com/embed/4tOwCHeN0Cw?si=1Yikz8XvS4Um1Sro" %}
