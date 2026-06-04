@@ -2,8 +2,10 @@
 
 - title: LEAP
   url: https://www.leaphz.net
+- divider: true
 - title: ST
   url: https://www.leaphz.net/st/
+- divider: true
 - title: Posts
   url: /posts/
 - title: Docs
@@ -12,6 +14,7 @@
   url: /categories/
 - title: Tags
   url: /tags/
+- divider: true
 # - title: PTO
 #   url: /pto/
 # - title: TEMPO
